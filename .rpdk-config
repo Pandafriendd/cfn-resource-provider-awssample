@@ -1,0 +1,18 @@
+{
+    "artifact_type": "RESOURCE",
+    "typeName": "Organization::Service::Resource",
+    "language": "python37",
+    "runtime": "python3.7",
+    "entrypoint": "organization_service_resource.handlers.resource",
+    "testEntrypoint": "organization_service_resource.handlers.test_entrypoint",
+    "settings": {
+        "version": false,
+        "subparser_name": null,
+        "verbose": 0,
+        "force": false,
+        "type_name": null,
+        "artifact_type": null,
+        "use_docker": true,
+        "protocolVersion": "2.0.0"
+    }
+}
